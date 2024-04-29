@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\programming\oop project\Traffic Intersection Simulation\Source.cpp(1034,31): warning C4101: 'x_c4': unreferenced local variable
+D:\programming\oop project\Traffic Intersection Simulation\Source.cpp(1034,25): warning C4101: 'x_c3': unreferenced local variable
+D:\programming\oop project\Traffic Intersection Simulation\Source.cpp(1034,55): warning C4101: 'y_c4': unreferenced local variable
+D:\programming\oop project\Traffic Intersection Simulation\Source.cpp(1034,49): warning C4101: 'y_c3': unreferenced local variable
+  Traffic Intersection Simulation.vcxproj -> D:\programming\oop project\Traffic Intersection Simulation\x64\Debug\Traffic Intersection Simulation.exe
